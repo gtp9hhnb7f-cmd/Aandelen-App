@@ -1,0 +1,7 @@
+Transaction Time (CET),Transaction Category,Transaction Type,Transfer Type,Transaction Amount,Transaction Currency,Cash Balance Amount,Asset Id,Asset Name,Asset Quantity,Asset Price,Asset Currency,Currency Pair,Exchange Rate,Profit And Loss Amount,Profit And Loss Currency,Dividend Currency,Dividend Gross Amount,Dividend Net Amount,Dividend Tax Amount,Transaction Description
+01-01-2024 10:00,Order,Buy,, -100,EUR,900,NN.AS,NN Group,2,50,EUR,EUR/EUR,1,0,EUR,,,,,Buy NN
+01-01-2024 10:00,Order,Cash,, -100,EUR,900,,,,,,,,,,,,,Buy NN
+01-03-2024 10:00,Order,Sell,,120,EUR,1020,NN.AS,NN Group,2,60,EUR,EUR/EUR,1,20,EUR,,,,,Sell NN
+01-03-2024 10:00,Order,Cash,,120,EUR,1020,,,,,,,,,,,,,Sell NN
+01-04-2024 10:00,Dividend,Dividend,,0,EUR,1020,NN.AS,NN Group,0,0,EUR,EUR/EUR,1,0,EUR,EUR,5,4,1,Dividend NN
+01-05-2024 10:00,Fee,Fee,,-2,EUR,1018,,,,,,,,,,,,,Service fee
